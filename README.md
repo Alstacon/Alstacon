@@ -13,7 +13,9 @@
  
  - 💻 I’m currently working on Python Flask and Django projects
  &nbsp;&nbsp;<p> 
- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Alstacon&repo=ToDoCon)](https://github.com/Alstacon/ToDoCon)
+ [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Alstacon&repo=ToDoCon&title_color=7f74a3)](https://github.com/Alstacon/ToDoCon)
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+ [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Alstacon&repo=Kinopoisk&title_color=7f74a3)](https://github.com/Alstacon/Kinopoisk)
 
  
  - 👩🏼‍🎓 I’m currently ~~suffer over~~ study:

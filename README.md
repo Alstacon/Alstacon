@@ -9,6 +9,7 @@
   <img src="https://img.shields.io/badge/postgres-c2dcf5?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/nginx-7f74a3?style=for-the-badge&logo=nginx&logoColor=white" />
 <p>
+  &nbsp;
  <h2 align="left">👨🏻‍💻 About Me:</h2> 
  
  - 💻 I’m currently working on Python Flask and Django projects

@@ -25,7 +25,23 @@
       - Linux
       - FastAPI
     
- - 🎠 What is also in my liking: History, Astrophysics and Video Games.
+ - 🎠 What is also in my liking: History, Astrophysics, Video Games and Equestrian Sports.
  
- - 💌 How to reach me: alstacon@gmail.com
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+___
+        
+ <h4 align="center">💌 How to reach me:</h4>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/alstacon/"><img src="https://img.shields.io/badge/linkedin-c2dcf5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
+  <a href="mailto:alstacon@gmail.com"><img src="https://img.shields.io/badge/Gmail-7f74a3?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://t.me/Alstacon"><img src="https://img.shields.io/badge/Telegram-c2dcf5?style=for-the-badge&logo=telegram&logoColor=white" /></a> 
+<p>  
+
+
+        
  

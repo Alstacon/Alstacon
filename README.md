@@ -10,15 +10,18 @@
   <img src="https://img.shields.io/badge/nginx-7f74a3?style=for-the-badge&logo=nginx&logoColor=white" />
 <p>
   &nbsp;
- <h2 align="left">👨🏻‍💻 About Me:</h2> 
+ <h2 align="left">🙆🏼‍♀️ About Me:</h2> 
  
- - 💻 I’m currently working on Python Flask and Django projects
+ - 💻 My latest big Python Flask and Django projects
  &nbsp;&nbsp;<p> 
  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Alstacon&repo=ToDoCon&title_color=7f74a3&cache_seconds=30)](https://github.com/Alstacon/ToDoCon)
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Alstacon&repo=Kinopoisk&title_color=7f74a3&cache_seconds=30)](https://github.com/Alstacon/Kinopoisk)
 
- 
+  - 👩🏼‍💻 I'm currently working on FastAPI projects
+ &nbsp;&nbsp;<p> 
+ [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Alstacon&repo=trading_app&title_color=7f74a3&cache_seconds=30)](https://github.com/Alstacon/trading_app)
+   
  - 👩🏼‍🎓 I’m currently ~~suffer over~~ study:
       - Algorithms and Data Structures
       &nbsp;&nbsp;<p>

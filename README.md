@@ -18,7 +18,7 @@
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Alstacon&repo=Kinopoisk&title_color=7f74a3&cache_seconds=30)](https://github.com/Alstacon/Kinopoisk)
 
-  - 👩🏼‍💻 I'm currently working on FastAPI projects
+  - 👩🏼‍💻 I'm currently working on FastAPI project
  &nbsp;&nbsp;<p> 
  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Alstacon&repo=trading_app&title_color=7f74a3&cache_seconds=30)](https://github.com/Alstacon/trading_app)
    

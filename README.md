@@ -32,7 +32,11 @@
       - FastAPI
     
  - 🎠 What is also in my liking: History, Astrophysics, Video Games and Equestrian Sports.
- 
+        
+- 📍My current knowledge map
+  <img src="https://drive.google.com/uc?export=view&id=1SWznoGLGbYIVeFgb6PJOx-dxyBkGnnXF" height="1000" width="2000"/>
+
+
 &nbsp;
 &nbsp;
 &nbsp;

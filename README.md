@@ -12,6 +12,10 @@
 <p>
   &nbsp;
  <h2 align="left">🙆🏼‍♀️ About Me:</h2> 
+
+ - 👩🏼‍💻 I'm studying the book "Head First Design Patterns". To reinforce my knowledge, I'm implementing the described patterns in Python in a separate repository:
+ &nbsp;&nbsp;<p> 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Alstacon&repo=file_downloader&title_color=7f74a3&cache_seconds=30)](https://github.com/Alstacon/HF_patterns)
  
  - 💻 My latest big Python Flask and Django projects
  &nbsp;&nbsp;<p> 
@@ -19,9 +23,6 @@
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Alstacon&repo=Kinopoisk&title_color=7f74a3&cache_seconds=30)](https://github.com/Alstacon/Kinopoisk)
 
-  - 👩🏼‍💻 I'm currently working on FastAPI project
- &nbsp;&nbsp;<p> 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Alstacon&repo=file_downloader&title_color=7f74a3&cache_seconds=30)](https://github.com/Alstacon/file_downloader)
 
    
  - 👩🏼‍🎓 I’m currently ~~suffer over~~ study:
@@ -29,7 +30,7 @@
       &nbsp;&nbsp;<p>
   [![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=alstacon)](https://github.com/KnlnKS/leetcode-stats)
       - Linux
-      - FastAPI
+      - Design patterns
     
  - 🎠 What is also in my liking: History, Astrophysics, Video Games and Equestrian Sports.
         

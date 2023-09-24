@@ -13,10 +13,11 @@
   &nbsp;
  <h2 align="left">🙆🏼‍♀️ About Me:</h2> 
 
- - 👩🏼‍💻 I'm studying the book "Head First Design Patterns". To reinforce my knowledge, I'm implementing the described patterns in Python in a separate repository:
+ - 👩🏼‍💻 I'm currently studying the book "Head First Design Patterns". To reinforce my knowledge, I'm implementing the described patterns in Python in a separate repository:
  &nbsp;&nbsp;<p> 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Alstacon&repo=file_downloader&title_color=7f74a3&cache_seconds=30)](https://github.com/Alstacon/HF_patterns)
- 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
  - 💻 My latest big Python Flask and Django projects
  &nbsp;&nbsp;<p> 
  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Alstacon&repo=ToDoCon&title_color=7f74a3&cache_seconds=30)](https://github.com/Alstacon/ToDoCon)

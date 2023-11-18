@@ -12,9 +12,9 @@
   &nbsp;
  <h2 align="left">🙆🏼‍♀️ About Me:</h2> 
 
- - 👩🏼‍💻 I'm currently studying the book "Head First. Design Patterns" 📖. To reinforce my knowledge, I'm implementing the described patterns in Python in a separate repository:
+ - 👩🏼‍💻 I'm currently studying the book "Python Concurrency with asyncio" 📖. To reinforce my knowledge, i'm practicing in separate repository:
  &nbsp;&nbsp;<p> 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Alstacon&repo=HF_patterns&title_color=7f74a3&cache_seconds=30)](https://github.com/Alstacon/HF_patterns)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Alstacon&repo=Asyncio_study&title_color=7f74a3&cache_seconds=30)](https://github.com/Alstacon/Asyncio_study)
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
  - 💻 My latest big Python Flask and Django projects
